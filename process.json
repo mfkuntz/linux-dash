@@ -1,0 +1,10 @@
+{
+    "apps": [{
+        "name": "dash",
+        "script": "server/index.js",
+        
+        "env": {
+            "PORT": 8080
+        }
+    }]
+}
